@@ -23,4 +23,7 @@
     <Text Include="in.txt" />
     <Text Include="out.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
+  </ItemGroup>
 </Project>
